@@ -6,5 +6,5 @@ c = 0
 while [ $c -lt 10 ]
 do
   echo "Best School"
-  (( count++ ))
+  (( c++ ))
 done
