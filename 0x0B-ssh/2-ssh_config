@@ -1,3 +1,0 @@
-# SSH configuration file
-IdentityFile ~/.ssh/holberton
-PasswordAuthentication no
